@@ -1,4 +1,4 @@
-# yo i did not make this file
+# i made this in 2 hours lol
 
 # Expo Router Example
 
