@@ -11,5 +11,5 @@ npx create-expo-app -e with-router
 ```
 
 ## 📝 Notes
-
+i am a backend/cloud guy man :(
 - [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
